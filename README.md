@@ -2,7 +2,7 @@
 
 **Overview of Election Audit** 
 
-The purpose of this analysis is to find pertinent information hidden within the election data. We are able to use python to find the total amount of votes, total votes as a number and percentage per county, and total votes as a number and percentage per candidate. This analysis teaches students how to use many useful features within Python to perform in-depth analysis. These include creating lists and dictionaries, intializing strings and variables, creating for loops, writing repitition statements, and writing scripts that can calculate results in a percentage. 
+The purpose of this analysis is to find pertinent information hidden within the election data. We are able to use python to find the total amount of votes, total votes as a number and percentage per county, and total votes as a number and percentage per candidate. This important data to understand because candidates that are well informed about previous outcomes can have higher chances of winning. This analysis teaches students how to use many useful features within Python to perform in-depth analysis. These include creating lists and dictionaries, intializing strings and variables, creating for loops, writing repitition statements, and writing scripts that can calculate results in a percentage. 
 
 **Election-Audit Results**
 
