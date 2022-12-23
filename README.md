@@ -6,23 +6,18 @@ The purpose of this analysis is to find pertinent information hidden within the 
 
 **Election-Audit Results**
 
-How many votes were cast in this congressional election
 + This election had 369,711 total votes casted
 
-Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct
 + Jefferson county had 38,855 votes, which was 10.5% of total votes 
 + Denver county had 306,055 votes, which was 82.8% of total votes
 + Arapahoe county had 24,801 votes, which was 6.7% of total votes
--
-Which county had the largest number of votes?
+
 + Denver had the largest number of votes with 306,066 total votes
 
-Provide a breakddown of the number of votes and the percentage of the total votes each candidate received
 + Charles Casper Stockham had a total of 85,213 votes being 23.0% of total votes
 + Diana DeGette had a total of 272,892 votes being 73.8% of total votes
 + Raymon Anthony had a total of 11,606 votes being 3.1% of total votes
 
-Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
 + Diana DeGette won the election by a landslide. Dianna Deggette received 272,892 votes being 73.8% of the total. 
 
 **Election- Audit Summary** 
