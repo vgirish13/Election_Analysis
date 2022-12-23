@@ -20,6 +20,6 @@ The purpose of this analysis is to find pertinent information hidden within the 
 
 + Diana DeGette won the election by a landslide. Dianna Deggette received 272,892 votes being 73.8% of the total. 
 
-**Election- Audit Summary** 
+**Election-Audit Summary** 
 
 After conducting this research, I realized that this script can be used for many different applications regarding elections. If there was more data within the excel file we could track more statistics based on the election results. For example, this script could be used to find what percentage of voters per county voted democratic, republican, or other. That would be useful for candidates in the future to decide how much campaigning is needed per county. This could be achieved through a for loop to pull the correct data from the excel sheet. Another example could be separating counties based on a certain population minimum. This would also be achieved through a for loop with the corresponding data updated within the excel sheet. This could be useful to see how different candidates perform in certain sized counties. 
